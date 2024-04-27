@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @suhaasmithun
-- 👀 I’m interested in Android Tech
-- 🌱 I’m currently learning Blockchain
+- :gem: Native Android Developer
+- 👀 Interested in Android and Blockchain Tech
+- 🌱 Learning React Native
+- :movie_camera: Movie buff
+- 🇮🇳 Located at Bengaluru
 
 <!---
 suhaasmithun/suhaasmithun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
