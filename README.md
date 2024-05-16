@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @suhaasmithun
-- :gem: Native Android Developer
-- 👀 Interested in Android and Blockchain Tech
+- :gem: Mobile App Developer
+- 👀 Interested in App Development and Blockchain Tech
 - 🌱 Learning React Native
 - :movie_camera: Movie buff
 - 🇮🇳 Located at Bengaluru
